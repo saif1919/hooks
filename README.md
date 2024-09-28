@@ -1,8 +1,8 @@
 ## NAIMI DEV SLAYER
-Pour regarder les videos en relation avec ce projet je vous invite à vous abonner à ma chaine youtube et consultater la playlist des hooks : 
+Pour regarder les videos en relation avec ce projet je vous invite à vous abonner à ma chaine youtube et consultater la playlist des hooks : : 
 [https://www.youtube.com/watch?v=KwNVHpQfl54&list=PL5tM3FFxkzmwGQLszZLIXjHdHmOH228J1]
 
-Vous trouverez aussiles playlists :
+Vous trouverez aussi les playlists :
 
 Symfony => [https://www.youtube.com/watch?v=i5OVFSJC9do&list=PL5tM3FFxkzmwRHYxHqL7HSGqzNRilclkY]
 
