@@ -9,9 +9,9 @@ Symfony => [https://www.youtube.com/watch?v=i5OVFSJC9do&list=PL5tM3FFxkzmwRHYxHq
 API Platform =>  [https://www.youtube.com/watch?v=dXsWh_lEybM&list=PL5tM3FFxkzmyBGHsGpGw28AO0lK2VP5zJ]
 
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## Getting Started
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
