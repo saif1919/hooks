@@ -1,9 +1,9 @@
 ## NAIMI DEV SLAYER
 Pour regarder les videos en relation avec ce projet je vous invite à vous abonner à ma chaine youtube et consultater la playlist des hooks : 
-[https://www.youtube.com/watch?v=KwNVHpQfl54&list=PL5tM3FFxkzmwGQLszZLIXjHdHmOH228J1] .
+[https://www.youtube.com/watch?v=KwNVHpQfl54&list=PL5tM3FFxkzmwGQLszZLIXjHdHmOH228J1].
 Vous trouverez aussiles playlists :
-Symfony => [https://www.youtube.com/watch?v=i5OVFSJC9do&list=PL5tM3FFxkzmwRHYxHqL7HSGqzNRilclkY] .
-API Platform =>  [https://www.youtube.com/watch?v=dXsWh_lEybM&list=PL5tM3FFxkzmyBGHsGpGw28AO0lK2VP5zJ] .
+Symfony => [https://www.youtube.com/watch?v=i5OVFSJC9do&list=PL5tM3FFxkzmwRHYxHqL7HSGqzNRilclkY].
+API Platform =>  [https://www.youtube.com/watch?v=dXsWh_lEybM&list=PL5tM3FFxkzmyBGHsGpGw28AO0lK2VP5zJ].
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
