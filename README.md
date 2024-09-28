@@ -8,6 +8,8 @@ Symfony => [https://www.youtube.com/watch?v=i5OVFSJC9do&list=PL5tM3FFxkzmwRHYxHq
 
 API Platform =>  [https://www.youtube.com/watch?v=dXsWh_lEybM&list=PL5tM3FFxkzmyBGHsGpGw28AO0lK2VP5zJ]
 
+Udemy : [https://www.udemy.com/user/saif-eddine-naimi/]
+
 
 ## Getting Started
 
